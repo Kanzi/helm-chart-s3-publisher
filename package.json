@@ -17,7 +17,7 @@
     "node": ">=6.x.x"
   },
   "dependencies": {
-    "aws-sdk": "^2.29.0",
+    "aws-sdk": "^2.94.0",
     "bluebird": "3.x.x",
     "boom": "^4.3.0",
     "commander": "^2.9.0",
